@@ -1,7 +1,7 @@
 # Olá, me chamo Paola! ❤️
 ## Seja bem-vindo ao meu perfil do GitHub! 👋
 
-- Atualmente sou uma estudante que acabou de finalizar o ensino médio.
+- Atualmente sou uma estudante de Ciência da Computação na Universidade Federal de Mato Grosso do Sul (UFMS)
 
 <div>
 <a href="https://github.com/paolacampossilva">
@@ -14,12 +14,10 @@
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
 ## Contatos:
 
 <div>
 <a href = "mailto:paa.campossilva@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>
-
-
