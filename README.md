@@ -1,7 +1,7 @@
 # Olá, me chamo Paola! ❤️
-## Seja bem-vindo ao meu perfil do GitHub! 👋
+## Seja bem-vindo(a) ao meu perfil do GitHub! 👋
 
-- Atualmente sou uma acadêmica de Ciência da Computação da Faculdade de Computação (FACOM) na Universidade Federal de Mato Grosso do Sul (UFMS)
+- Atualmente sou uma acadêmica de Ciência da Computação da Faculdade de Computação (FACOM) na Universidade Federal de Mato Grosso do Sul (UFMS), atuo como bolsista no Laboratório de Inteligência Artificial (LIA) na FACOM-UFMS.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paolacampossilva&theme=dracula)
 
@@ -11,6 +11,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40"/> 
 </div>
 
@@ -20,6 +21,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> 
 </div>
 
 ## Contatos:
